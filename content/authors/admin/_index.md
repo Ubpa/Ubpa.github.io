@@ -3,7 +3,7 @@
 title: Tao Zhuang
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Tao
@@ -57,10 +57,10 @@ education:
     date_start: 2015-07-01
     date_end: 2019-07-01
     summary: |
-      
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+      hello
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
